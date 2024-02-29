@@ -13,6 +13,7 @@
 // @match        https://meta.serverfault.com/*
 // @match        https://meta.superuser.com/*
 // @match        https://meta.askubuntu.com/*
+// @downloadURL  https://raw.githubusercontent.com/simon-andrews/userscripts/master/stackexchange-hot-questions-remover.js
 // @grant        none
 // ==/UserScript==
 
